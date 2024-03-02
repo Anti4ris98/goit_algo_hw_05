@@ -20,7 +20,7 @@ text2 = download_file_from_google_drive(file2_id, file2_path)
 
 
 # Підрядки
-existing_substring = "exponentialSearch"
+existing_substring = "recommendation"
 nonexistent_substring = "Blablabal"
 
 # Функція для вимірювання часу
